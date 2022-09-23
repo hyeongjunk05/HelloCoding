@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe.config
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.pdb
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.exe
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_While\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.pdb

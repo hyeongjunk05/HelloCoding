@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.exe.config
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.exe
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.pdb
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.exe
+C:\Users\hyeon\Documents\HelloCoding\LottoNumberGenerator\LottoNumberGenerator\obj\Debug\LottoNumberGenerator.pdb

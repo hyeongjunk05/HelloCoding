@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\hyeon\Documents\HelloCoding\Operators\Operators\obj\Debug\Operators.pdb

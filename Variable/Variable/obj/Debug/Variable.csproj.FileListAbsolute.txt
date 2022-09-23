@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\bin\Debug\Variable.exe.config
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\bin\Debug\Variable.exe
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\bin\Debug\Variable.pdb
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\obj\Debug\Variable.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\obj\Debug\Variable.exe
+C:\Users\hyeon\Documents\HelloCoding\Variable\Variable\obj\Debug\Variable.pdb

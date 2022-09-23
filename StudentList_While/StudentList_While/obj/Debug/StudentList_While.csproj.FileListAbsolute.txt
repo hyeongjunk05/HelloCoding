@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\bin\Debug\StudentList_While.exe.config
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\bin\Debug\StudentList_While.exe
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\bin\Debug\StudentList_While.pdb
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\obj\Debug\StudentList_While.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\obj\Debug\StudentList_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\obj\Debug\StudentList_While.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\obj\Debug\StudentList_While.exe
+C:\Users\hyeon\Documents\HelloCoding\StudentList_While\StudentList_While\obj\Debug\StudentList_While.pdb

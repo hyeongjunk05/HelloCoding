@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\bin\Debug\Echo.exe.config
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\bin\Debug\Echo.exe
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\bin\Debug\Echo.pdb
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\obj\Debug\Echo.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\obj\Debug\Echo.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\obj\Debug\Echo.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\obj\Debug\Echo.exe
+C:\Users\hyeon\Documents\HelloCoding\Echo\Echo\obj\Debug\Echo.pdb

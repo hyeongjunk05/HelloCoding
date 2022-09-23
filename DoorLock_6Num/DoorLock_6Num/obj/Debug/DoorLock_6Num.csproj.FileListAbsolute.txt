@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\bin\Debug\DoorLock_6Num.exe.config
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\bin\Debug\DoorLock_6Num.exe
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\bin\Debug\DoorLock_6Num.pdb
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\obj\Debug\DoorLock_6Num.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\obj\Debug\DoorLock_6Num.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\obj\Debug\DoorLock_6Num.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\obj\Debug\DoorLock_6Num.exe
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num\DoorLock_6Num\obj\Debug\DoorLock_6Num.pdb

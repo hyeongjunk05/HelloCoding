@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\Users\hyeon\Documents\HelloCoding\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.pdb

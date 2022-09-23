@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\DoorLock_6Num_Random.exe.config
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\DoorLock_6Num_Random.exe
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\bin\Debug\DoorLock_6Num_Random.pdb
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.exe
+C:\Users\hyeon\Documents\HelloCoding\DoorLock_6Num_Random\DoorLock_6Num_Random\obj\Debug\DoorLock_6Num_Random.pdb

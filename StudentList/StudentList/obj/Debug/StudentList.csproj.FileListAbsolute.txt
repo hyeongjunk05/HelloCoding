@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\obj\Debug\StudentList.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\obj\Debug\StudentList.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Users\hyeon\Documents\HelloCoding\StudentList\StudentList\obj\Debug\StudentList.pdb

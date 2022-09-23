@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\bin\Debug\Gugudan.exe.config
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\bin\Debug\Gugudan.exe
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\bin\Debug\Gugudan.pdb
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\obj\Debug\Gugudan.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\obj\Debug\Gugudan.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\obj\Debug\Gugudan.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\obj\Debug\Gugudan.exe
+C:\Users\hyeon\Documents\HelloCoding\Gugudan\Gugudan\obj\Debug\Gugudan.pdb

@@ -1,0 +1,8 @@
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\obj\Debug\Calculator_.csproj.AssemblyReference.cache
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\obj\Debug\Calculator_.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\obj\Debug\Calculator_.csproj.CoreCompileInputs.cache
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\bin\Debug\Calculator_.exe.config
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\bin\Debug\Calculator_.exe
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\bin\Debug\Calculator_.pdb
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\obj\Debug\Calculator_.exe
+C:\Users\hyeon\Documents\HelloCoding\Calculator_\Calculator_\obj\Debug\Calculator_.pdb
